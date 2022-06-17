@@ -17,6 +17,6 @@ Overall, there is little difference in the temps between the two months. Which w
 
 1. Average water temperatures between the two months.
 2. Average rainfall between the two months.
-3. Average time of daylight.
+3. Average hours of daylight.
 
 With this additional information one should be able to make a good informed decision.
